@@ -26,7 +26,7 @@ If applicable, add screenshots to help explain your problem.
 **Smartphone (please complete the following information):**
  - Device: [e.g. iPhone6]
  - OS: [e.g. iOS8.1]
- - Version [e.g. 1.0.2 ..can be found on home screen at bottom left corner]
+ - Version: [e.g. 1.0.2 ..can be found on home screen at bottom left corner]
 
 **Additional context**
 Add any other context about the problem here.
