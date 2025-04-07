@@ -7,3 +7,7 @@ Dive into Nexus Fleet, a thrilling roguelike twist on classic Sea Battle! Comman
 ## Public Hub
 
 This repository serve as public hub for the game and for reporting issues.
+
+## Game privacy policy
+
+Can be found at https://stefanak.serv00.net/nexus-fleet/privacy-policy.html
