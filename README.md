@@ -2,7 +2,8 @@
 
 Dive into Nexus Fleet, a thrilling roguelike twist on classic Sea Battle! Command a starting fleet and engage in turn-based naval combat. Sink enemy ships to earn rewards: new vessels and powerful Admirals with unique abilities! Choose wisely as you can lead up to 3 Admirals, each offering strategic advantages. Survive as many battles as you can, but beware - defeat means starting anew with a fresh fleet. Can you conquer the ever-challenging seas?
 
-[![Google Play](https://www.gstatic.com/social/photosui/images/google_play_badge_135x40dp_1x.png)](https://play.google.com/store/apps/details?id=com.MichalStefanak.NexusFleet)
+[![AppStore](https://github.com/user-attachments/assets/d26c5a07-24b2-4d55-abe4-1e7be314dda8)](https://apps.apple.com/app/id6744459493)
+[![Google Play](https://github.com/user-attachments/assets/5e399d9e-6ac4-4e99-9178-0d86b9f4164e)](https://play.google.com/store/apps/details?id=com.MichalStefanak.NexusFleet)
 
 ## Public Hub
 
