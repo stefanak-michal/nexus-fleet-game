@@ -12,3 +12,7 @@ This repository serve as public hub for the game and for reporting issues.
 ## Game privacy policy
 
 Can be found at https://stefanak.serv00.net/nexus-fleet/privacy-policy.html
+
+## Preview
+
+[![Watch the video](https://img.youtube.com/vi/z0fydgLwyMs/0.jpg)](https://www.youtube.com/shorts/z0fydgLwyMs)
